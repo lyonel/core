@@ -17,6 +17,6 @@
 	<shipped>true</shipped>
 	<default_enable/>
 	<documentation>
-		<admin>provisioning_api</admin>
+		<admin>admin-provisioning-api</admin>
 	</documentation>
 </info>
